@@ -1,2 +1,3 @@
-TMDB Clone-App 🎥
-A responsive React.js application mimicking TMDB for browsing movies and managing your watchlist. Built with TailwindCSS for a modern, adaptive design. This frontend-only project delivers a seamless user experience with visually captivating UI elements.
+# TMDB Clone – Movie Wishlist App  
+
+A responsive TMDB clone built with React, Tailwind CSS, and the TMDB API. Features dynamic movie search, wishlist management, and smooth animations. Showcases expertise in API integration, UI design, and performance optimization, delivering a seamless and engaging user experience with modern, interactive layouts.
